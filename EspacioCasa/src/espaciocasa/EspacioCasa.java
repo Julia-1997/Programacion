@@ -20,6 +20,7 @@ public class EspacioCasa {
 
         double anchura_estancia = 0;
         double longitud_estancia = 0;
+        
         boolean numero_estancias = true;
         char respuesta_usuario;
         double espacio_estancia;
