@@ -19,6 +19,7 @@ public class RecursividadTurron {
         // TODO code application logic here
         
         int dia;
+        
         Scanner sc= new Scanner(System.in);
         System.out.println("Escribe el dia");
         dia= sc.nextInt();
