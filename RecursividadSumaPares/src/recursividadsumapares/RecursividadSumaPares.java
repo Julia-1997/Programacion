@@ -21,6 +21,7 @@ public class RecursividadSumaPares {
         int numero;
         Scanner sc= new Scanner (System.in);
         
+        System.out.println("Este programa sirve para calcular la suma de numeros pares desde 2 hasta el numero que indiques"); //Cambio para el git
         System.out.println("Introduce un numero par");
         numero= sc.nextInt();
         
