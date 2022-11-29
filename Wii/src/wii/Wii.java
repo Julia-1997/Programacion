@@ -21,6 +21,7 @@ public class Wii {
 
    Random rd= new Random();
         int eleccion_petardo;
+        
         int petardo1= rd.nextInt(10)+1;
         int petardo2= rd.nextInt(10)+1;
         int petardo3= rd.nextInt(10)+1;

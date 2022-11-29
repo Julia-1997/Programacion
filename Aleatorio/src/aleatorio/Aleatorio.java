@@ -18,6 +18,7 @@ public class Aleatorio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Este programa genera un numero y tienes que adivinar cual es"); //Nueva linea añadida para el git
         Random rd= new Random(); //lo piensa el ordenador
         
         int aleatori;
